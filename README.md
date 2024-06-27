@@ -10,6 +10,6 @@ In this presentation I aim to:
   * Introduce some career options that exist in the field of AI
 
 This repository includes the materials shared in the presentation for future reference.
-  * [AI Overview.pdf]() - The slides shared in my presentation
-  * [model_training_example.ipynb]() - The notebook with a
+  * [AI Overview.pdf](AI Overview.pdf) - The slides shared in my presentation
+  * [model_training_example.ipynb](model_training_example.ipynb) - The notebook with a
     walkthrough of training a model to classify images
